@@ -1,0 +1,34 @@
+[
+    {
+      "role": "Vehicle Development Test Technician",
+      "organization": "Aptiv",
+      "startDate": "Nov, 2022",
+      "endDate": "Jan, 2024",
+      "experiences": [
+        "Performed test scenarios, data logging, and analysis on autonomous vehicles", 
+        "Assessed vehicle system performance between algorithm releases"],
+      "imageSrc": "history/aptiv.png"
+    },
+    {
+      "role": "Wireless Test Technician - Summer Internship",
+      "organization": "Underwriters Laboratories",
+      "startDate": "May, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": [
+        "Evaluated SAR/HAC test performances and sample operations to properly evaluate test results", 
+        "Recorded and explained test results and complete test report for Engineering staff"],
+      "imageSrc": "history/ul.png"
+    },
+    {
+      "role": "Reserve Engineer",
+      "organization": "Cobalt Robotics",
+      "startDate": "Jul, 2020",
+      "endDate": "Jul, 2021",
+      "experiences": [
+        "On-call for on-site technical support",
+        "Troubleshot and serviced robots with assistance of remote Engineering staff"
+      ],
+      "imageSrc": "history/cobaltrobotics.png"
+    }
+  ]
+  

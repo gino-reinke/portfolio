@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Team Fitness Android Applicaiton",
+    "imageSrc": "projects/project.png",
+    "description": "A comprehensive fitness tracking application designed to provide reports and analytics on user performance trends, goal achievements, and progress over time. ",
+    "skills": ["Java", "Firebase", "Figma"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/WSU-4110/TeamFitness"
+  },
+  {
+    "title": "Driveway Sealing Business Database Web Application",
+    "imageSrc": "projects/project.png",
+    "description": "This database web application for a driveway-sealing contractor is designed to streamline client management, request processing, and financial tracking.",
+    "skills": ["React", "Node", "Express", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Nathan-Chantiny/CSC-4710-Project-2"
+  },
+  {
+    "title": "Cafe Store Interface Android Applicaiton",
+    "imageSrc": "projects/project.png",
+    "description": "A user-friendly mobile application that enhances the cafe experience by allowing users to view menus, place orders, and view their cart.",
+    "skills": ["Java"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/gino-reinke/Android_Cafe_App"
+  }
+]
