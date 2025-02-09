@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-import styles from './Experience.module.css'
-import skills from '../../data/skills.json'
-import history from '../../data/history.json'
-import { getImageUrl } from '../../utils'
+import styles from './Experience.module.css';
+import skills from '../../data/skills.json';
+import history from '../../data/history.json';
+import { getImageUrl } from '../../utils';
 
 export const Experience = () => {
     return (
@@ -44,7 +44,12 @@ export const Experience = () => {
             })}
           </ul>
         </div>
+
+        <div className={styles.resumeContainer}>
+          <a href="../../.././assets/experience/resume.pdf" download className={styles.resumeButton}>
+            View Full Resume
+          </a>
+        </div>
       </section>
     );
-  };
-  
+};

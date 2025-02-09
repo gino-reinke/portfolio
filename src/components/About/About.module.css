@@ -7,8 +7,8 @@
   padding: 73px;
   margin-top: 129px;
   z-index: 1;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .title {
@@ -40,7 +40,7 @@
     border-radius: 20px;
     list-style: none;
     padding: 25px;
-    background-image: linear-gradient(90deg, rgba(165, 215, 232, 0.42) 0%, rgba(255, 255, 255, 0) 100%);
+    background-image: linear-gradient(90deg, #8f5a2a 0%, rgba(255, 255, 255, 0) 100%);
     background-size: 0 100%;
     background-repeat: no-repeat;
     transition: 0.4s;
