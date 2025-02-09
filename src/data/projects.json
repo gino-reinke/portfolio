@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Swap & Share Bookshelf",
+    "imageSrc": "projects/swapandsharebookshelf.png",
+    "description": "(in development) A community-driven book exchange platform that enables users to seamlessly swap books, discover new reads, and connect with fellow readers while promoting sustainable reading habits.",
+    "skills": ["JavaScript", "Firebase", "Figma"],
+    "source": "https://github.com/gino-reinke/Swap-and-Share-Bookshelf"
+  },
+  {
+    "title": "Team Fitness Android Application",
+    "imageSrc": "projects/teamfitness.png",
+    "description": "A comprehensive fitness tracking application designed to provide reports and analytics on user performance trends, goal achievements, and progress over time. ",
+    "skills": ["Java", "Firebase", "Figma"],
+    "source": "https://github.com/WSU-4110/TeamFitness"
+  },
+  {
+    "title": "Driveway Sealing Business Web Application",
+    "imageSrc": "projects/drivewaysealing.png",
+    "description": "This database application for a driveway-sealing contractor is designed to streamline client management.",
+    "skills": ["React", "Node.js", "Express", "MySQL"],
+    "source": "https://github.com/Nathan-Chantiny/CSC-4710-Project-2"
+  },
+  {
+    "title": "Cafe Store Interface Android Application",
+    "imageSrc": "projects/cafestore.png",
+    "description": "A user-friendly mobile application that enhances the cafe experience by allowing users to view menus, place orders, and view their cart.",
+    "skills": ["Java"],
+    "source": "https://github.com/gino-reinke/Android_Cafe_App"
+  }
+]
