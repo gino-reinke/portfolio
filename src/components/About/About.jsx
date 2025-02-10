@@ -9,7 +9,7 @@ export const About = () => {
         <div className={styles.content}>
             <ul className={styles.aboutItems}> 
                 <li className={styles.aboutItem}>
-                    <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor Icon" />
+                    <img src={getImageUrl("cursorIcon.png")} alt="Cursor Icon" />
                     <div className={styles.aboutItemText}>
                         <h3>Frontend Developer</h3>
                         <p>Experienced with building responsive, optimized websites</p>
