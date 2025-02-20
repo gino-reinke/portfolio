@@ -4,7 +4,8 @@
     "imageSrc": "projects/swapandsharebookshelf.png",
     "description": "(in development) A community-driven book exchange platform that enables users to seamlessly swap books, discover new reads, and connect with fellow readers while promoting sustainable reading habits.",
     "skills": ["JavaScript", "Firebase", "Figma"],
-    "source": "https://github.com/gino-reinke/Swap-and-Share-Bookshelf"
+    "source": "https://github.com/gino-reinke/Swap-and-Share-Bookshelf",
+    "demo": "https://swap-and-share-bookshelf.web.app/"
   },
   {
     "title": "Team Fitness Android Application",
