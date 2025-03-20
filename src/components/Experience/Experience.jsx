@@ -49,6 +49,9 @@ export const Experience = () => {
           <a href="../../.././assets/experience/resume.pdf" download className={styles.resumeButton}>
             View Full Resume
           </a>
+          <a href="https://www.figma.com/@ginoreinke" className={styles.resumeButton}>
+            Figma Profile
+          </a>
         </div>
       </section>
     );

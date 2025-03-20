@@ -116,6 +116,7 @@
   font-weight: bold;
   text-decoration: none;
   border-radius: 100px;
+  margin-left: 24px;
 }
 
 .resumeButton:hover {
@@ -139,5 +140,9 @@
   .history {
     width: 100%;
     gap: 9px;
+  }
+
+  .resumeButton {
+    margin-top: 8px;
   }
 }

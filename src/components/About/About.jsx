@@ -27,6 +27,7 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>UI Designer</h3>
                         <p>Experienced with designing landing pages and design systems</p>
+                        <a href="https://www.figma.com/@ginoreinke" target="_blank" rel="noopener noreferrer">View my Figma profile</a>
                     </div>
                 </li>
             </ul>
