@@ -1,39 +1,46 @@
 [
-    {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
-    },
-    {
-      "title": "Node.js",
-      "imageSrc": "skills/node.png"
-    },
-    {
-      "title": "Express.js",
-      "imageSrc": "skills/express.png"
-    },
-    {
-      "title": "PostgreSQL",
-      "imageSrc": "skills/postgresql.png"
-    },
-    {
-      "title": "MySQL",
-      "imageSrc": "skills/mysql.png"
-    },
-    {
-        "title": "Firebase",
-        "imageSrc": "skills/firebase.png"
-      },
-    {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
-    }
-  ]
-  
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  }
+]
