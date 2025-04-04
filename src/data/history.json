@@ -5,7 +5,7 @@
       "startDate": "Nov, 2022",
       "endDate": "Jan, 2024",
       "experiences": [
-        "Tested and analyzed autonomous vehicle performance across algorithm updates."],
+        "Conducted vehicle testing; Debugged Python scripts to resolve issues in data logging and vehicle test automation processes."],
       "imageSrc": "history/aptiv.png"
     },
     {
@@ -14,7 +14,7 @@
       "startDate": "May, 2021",
       "endDate": "Aug, 2022",
       "experiences": [
-        "Evaluated SAR/HAC test performances, analyzed results, and documented findings for engineering review."],
+        "Evaluated SAR test performances; Modified Python scripts to automate testing, enhancing efficiency and accuracy"],
       "imageSrc": "history/ul.png"
     },
     {
@@ -23,7 +23,7 @@
       "startDate": "Jul, 2020",
       "endDate": "Jul, 2021",
       "experiences": [
-        "Provided on-site technical support and troubleshoot robots with remote Engineering assistance."
+        "Diagnosed and resolved robotic system issues in collaboration with remote engineering teams"
       ],
       "imageSrc": "history/cobaltrobotics.png"
     }
