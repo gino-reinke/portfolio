@@ -1,5 +1,12 @@
 [
   {
+    "title": "Resonance - Tune Your Mind",
+    "imageSrc": "projects/resonance.png",
+    "description": "A music emotion recognition app designed to personalize listening experiences through AI audio analysis and user emotional profiles.",
+    "skills": ["JavaScript", "React Native", "Figma", "Python Django", "TensorFlow"],
+    "source": "https://www.figma.com/community/file/1484330876571362357"
+  },
+  {
     "title": "Swap & Share Bookshelf",
     "imageSrc": "projects/swapandsharebookshelf.png",
     "description": "(in development) A community-driven book exchange platform that enables users to seamlessly swap books, discover new reads, and connect with fellow readers while promoting sustainable reading habits.",

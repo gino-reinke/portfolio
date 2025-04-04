@@ -30,9 +30,11 @@ export const ProjectCard = ({
             Demo
           </a>
         )}
+        {source && (
         <a href={source} className={styles.link}>
           Source
         </a>
+        )}
       </div>
     </div>
   );
